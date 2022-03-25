@@ -1,17 +1,91 @@
-<h1 align="center">Hi 👋, I'm Aygon Cordeiro</h1>
-<h3 align="center">Estudante de Ciência da Computação, apaixonado pela área de desenvolvimento e segurança. Atualmente atuando na área de Analytics.</h3>
+<!-- img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png" -->
 
-- 📫 How to reach me **aygon.cordeiro@gmail.com**
+<img min_width="450px" max-width="250" width="250" align="right" alt="Developer" style="border-radius:100px" src="https://pngimage.net/wp-content/uploads/2018/06/web-developer-png-2.png" alt="web developer png 2"></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aygon-cordeiro-7b63a0214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aygon-cordeiro-7b63a0214/" height="30" width="40" /></a>
+<h1 align="center">Bem vindo(a) ao meu perfil! </h1>
+<p>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<a href="https://www.linkedin.com/in/lucastk/" target="_blank">
+    <h1 align="center">
+       Aygon Cordeiro | Auxiliar de T.I
+        </a>
+    </h1>
+    <div align="left">
+        <a href="aygon.cordeiro@gmail.com">
+            <img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">            
+        </a>
+         <a href="aygon.cordeiro@aluno.unip.com.br">
+            <img alt="E-mail"src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+        </a>
+        <a href="https://www.linkedin.com/in/aygon-cordeiro-7b63a0214/" target="_blank">
+            <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="https://www.instagram.com/aygon_matheus/" target="_blank">
+            <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        </a>
+        <a href="https://github.com/AygonCordeiro" target="_blank">
+            <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+        <a href="https://api.whatsapp.com/send?phone=5513988492601" target="_blank">
+            <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
+        </a>
+</div>
 
-### My Gibhub stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AygonCordeiro&show_icons=true&include_all_commits=true)](https://github.com/AygonCordeiro/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AygonCordeiro&layout=compact)](https://github.com/AygonCordeiro/github-readme-stats)
 
+
+##
+
+<h1 align="center">Linguagens e ferramentas:</h1>
+<div style="display: inline_block;" align="center">
+
+|  **PROPRIEDADES** | **TECNOLOGIAS** |
+| :---------        |     :---------  |
+|**Linguagem / IDE** | <img align="center" alt="PYTHON" height="30" src="https://img.shields.io/badge/python-0d1533?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/php-0d1533?style=for-the-badge&logo=php&logoColor=white"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> <img align="center" alt="SUBLIME TEXT" height="30" src="https://img.shields.io/badge/Sublime_Text-61210B?&style=for-the-badge&logo=sublime-text&logoColor=white"> |
+|**Conhecimento / Uso** |  <img align="center" alt="GIT" height="30" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="Postman" height="30" src="https://img.shields.io/badge/Postman-232F3E?style=for-the-badge&logo=postman&logoColor=white"> <img align="center" alt="OBSIDIAN" height="30" src="https://img.shields.io/badge/obsidian-0d1533?& style=for-the-badge&logo=obsidian&logoColor=white">|
+|**Database** |  <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white"> <img align="center" alt="SQL Server" height="30" src="https://img.shields.io/badge/sql_server-404D59?style=for-the-badge&logo=sql_server&logoColor=white">
+ | **Style** |  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> |
+|**Os** | <img align="center" alt="Windows" height="30" src="https://img.shields.io/badge/windows-862d59?style=for-the-badge&logo=windows&logoColor=white">|
+</div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>-
+  <img align="center" alt="MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">-
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
+  <img align="center" alt="GIT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">-
+  <img align="center" alt="GITHUB" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40">-
+  <img align="center" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>-
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</div>
+
+
+# 
+
+<div align="center">
+  <a href="https://github.com/AygonCordeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AygonCordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AygonCordeiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>                     
+
+#
+ <div align="center">
+<h1 align="center">Atualmente estudando: </h1>
+    <strong>- Segurança da Informação <br>- Data Science & Big Data <br>- Inglês</strong>
+</div> 
+
+#
+
+ <div align="center">
+    
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+  </div>
+
+</p>
+      
+  

@@ -1,5 +1,3 @@
-<!-- img min-width="450px" max-width="250" width="250" align="right" alt="Computador" style="border-radius:100px;" src="https://pngimage.net/wp-content/uploads/2018/06/programador-png-3.png" -->
-
 <img min_width="450px" max-width="250" width="250" align="right" alt="Developer" style="border-radius:100px" src="https://pngimage.net/wp-content/uploads/2018/06/web-developer-png-2.png" alt="web developer png 2"></a>
 
 <h1 align="center">Bem vindo(a) ao meu perfil! </h1>
@@ -41,7 +39,7 @@
 
 |  **PROPRIEDADES** | **TECNOLOGIAS** |
 | :---------        |     :---------  |
-|**Linguagem / IDE** | <img align="center" alt="PYTHON" height="30" src="https://img.shields.io/badge/python-0d1533?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/php-0d1533?style=for-the-badge&logo=php&logoColor=white"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> <img align="center" alt="SUBLIME TEXT" height="30" src="https://img.shields.io/badge/Sublime_Text-61210B?&style=for-the-badge&logo=sublime-text&logoColor=white"> |
+|**Linguagem / IDE** | <img align="center" alt="PYTHON" height="30" src="https://img.shields.io/badge/python-0d1533?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/php-0d1533?style=for-the-badge&logo=php&logoColor=white"> <img align="center" alt="VSCODE" height="30" src="https://img.shields.io/badge/VSCode-blue?&style=for-the-badge&logo=visual-studio&logoColor=white"> <img align="center" alt="SUBLIME TEXT" height="30" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> |
 |**Conhecimento / Uso** |  <img align="center" alt="GIT" height="30" src="https://img.shields.io/badge/git-61210B?&style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="Postman" height="30" src="https://img.shields.io/badge/Postman-232F3E?style=for-the-badge&logo=postman&logoColor=white"> <img align="center" alt="OBSIDIAN" height="30" src="https://img.shields.io/badge/obsidian-0d1533?& style=for-the-badge&logo=obsidian&logoColor=white">|
 |**Database** |  <img align="center" alt="MYSQL" height="30" src="https://img.shields.io/badge/mysql-404D59?style=for-the-badge&logo=mysql&logoColor=white"> <img align="center" alt="SQL Server" height="30" src="https://img.shields.io/badge/sql_server-404D59?style=for-the-badge&logo=sql_server&logoColor=white">
  | **Style** |  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/css-007ACC?style=for-the-badge&logo=css3&logoColor=white"> |

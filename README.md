@@ -4,7 +4,7 @@
 <p>  
 </p>
 
-<a href="https://www.linkedin.com/in/lucastk/" target="_blank">
+<a href="https://www.linkedin.com/in/aygon-cordeiro-7b63a0214/" target="_blank">
     <h1 align="center">
        Aygon Cordeiro | Auxiliar de T.I
         </a>

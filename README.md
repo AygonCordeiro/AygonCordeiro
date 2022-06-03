@@ -1,33 +1,16 @@
 <img min_width="450px" max-width="250" width="250" align="right" alt="Developer" style="border-radius:100px" src="https://pngimage.net/wp-content/uploads/2018/06/web-developer-png-2.png" alt="web developer png 2"></a>
 
-<h1 align="center">Bem vindo(a) ao meu perfil! </h1>
+<h1 align="center">Bem vindo(a) ao meu perfil! 👋</h1>
 <p>  
 </p>
-
-<a href="https://www.linkedin.com/in/aygon-cordeiro-7b63a0214/" target="_blank">
-    <h1 align="center">
-       Aygon Cordeiro | Auxiliar de T.I
-        </a>
     </h1>
     <div align="left">
-        <a href="aygon.cordeiro@gmail.com">
-            <img alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">            
-        </a>
-         <a href="aygon.cordeiro@aluno.unip.com.br">
-            <img alt="E-mail"src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-        </a>
         <a href="https://www.linkedin.com/in/aygon-cordeiro-7b63a0214/" target="_blank">
             <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
         <a href="https://www.instagram.com/aygon_matheus/" target="_blank">
             <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-        </a>
-        <a href="https://github.com/AygonCordeiro" target="_blank">
-            <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-        <a href="https://api.whatsapp.com/send?phone=5513988492601" target="_blank">
-            <img alt="Whatsapp" src="https://img.shields.io/badge/whatsapp-04B404?style=for-the-badge&logo=whatsapp&logoColor=white">
-        </a>
+    </a>
 </div>
 
 
@@ -56,18 +39,6 @@
 </div>                     
 
 #
- <div align="center">
-<h1 align="center">Atualmente estudando: </h1>
-    <strong>- Segurança da Informação <br>- Data Science & Big Data <br>- Inglês</strong>
-</div> 
-
-#
-
- <div align="center">
-    
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-  </div>
 
 </p>
       
